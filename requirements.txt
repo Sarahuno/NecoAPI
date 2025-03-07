@@ -1,2 +1,1 @@
-# No external dependencies, but specify the Python version
-python_version == 3.11
+
